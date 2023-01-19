@@ -1,13 +1,14 @@
-# Hi, I'm Omar Jadiani! 👋
+<h1 align="left"> Hi, I'm Omar Jadiani! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 ![](https://komarev.com/ghpvc/?username=omarj9&color=blue&style=for-the-badge)
 
 ## 🚀 About Me
 - 🙋‍ I'm a passionate self-taught developer!
-- 💻 I studied English linguistics, but I shifted to programming.
+- 💻 I studied English linguistics, but I switched to programming.
 - 🗣 I speak Arabic, English, French, and some Spanish.
 - 🌱 I’m currently learning **FastApi**
 - 💬 Ask me about **Dart/Flutter/Python**
+- ❤️ A **Linux** lover. 
 
 ## 🌐 Connect with me
 <a href="https://www.instagram.com/omarjadiani/">
@@ -25,10 +26,12 @@
   
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
 
 </div>
 

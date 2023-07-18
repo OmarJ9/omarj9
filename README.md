@@ -4,16 +4,12 @@
 
 ## 🚀 About Me
 - 🙋‍ I'm a passionate self-taught developer!
-- 💻 I studied English linguistics, but I switched to programming.
-- 🗣 I speak Arabic, English, French, and some Spanish.
+- 🗣 I speak Arabic, English, French.
 - 🌱 I’m currently learning **FastApi**
 - 💬 Ask me about **Dart/Flutter/Python**
 - ❤️ A **Linux** lover. 
 
 ## 🌐 Connect with me
-<a href="https://www.instagram.com/omarjadiani/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 <a href="https://www.linkedin.com/in/omar-jadiani-766aa3229/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />

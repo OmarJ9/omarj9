@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🙋‍ I'm a passionate self-taught developer!
 - 🗣 I speak Arabic, English, French.
-- 🌱 I’m currently learning **FastApi**
+- 🌱 I’m currently learning **Django**
 - 💬 Ask me about **Dart/Flutter/Python**
 - ❤️ A **Linux** lover. 
 

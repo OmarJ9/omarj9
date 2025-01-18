@@ -29,10 +29,6 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </div>
 
-## 📊 Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=omarj9&theme=gotham)<br/>
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

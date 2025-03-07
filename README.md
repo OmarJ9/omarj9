@@ -6,8 +6,7 @@
 - 🙋‍ I'm a passionate self-taught developer!
 - 🗣 I speak Arabic, English, French.
 - 🌱 I’m currently learning **NestJS**
-- 💬 Ask me about **Flutter | React | NodeJS**
-- ❤️ A **Linux** lover. 
+- 💬 Ask me about **Flutter | ReactJS | NextJS** 
 
 ## 🌐 Connect with me
 

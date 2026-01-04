@@ -4,13 +4,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** focused on building **scalable, clean, and maintainable applications** across web and mobile platforms.
+I'm a passionate **Software Developer** focused on building scalable and maintainable applications across web and mobile platforms.
 
 - 📱 Crafting high-quality apps with **Flutter**
-- 🌐 Building modern web experiences using **React** and **Next.js**
-- 🧠 Designing robust backends with **NestJS** and Node.js
+- 🌐 Building modern web experiences using React and Next.js
+- 🧠 Designing robust backends with NestJS and Node.js
 - 🚀 Constantly learning, experimenting, and improving as a developer
-- 🗣 Fluent in **Arabic, English, and French**
+- 🗣 Fluent in Arabic, English, and French
 
 
 ## 🌐 Follow me on
